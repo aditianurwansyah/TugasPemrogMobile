@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">implicit</string>
+    <string name="button_website">Open Website</string>
+    <string name="button_location">Open Map</string>
+    <string name="button_share">Share Text</string>
+    <string name="edit_website">http://developer.android.com</string>
+    <string name="edit_location">Universitas Teknologi Bandung</string>
+    <string name="edit_share">Ini text yang akan dishare</string>
+    <string name="hello_warning">Uoo</string>
+</resources>
